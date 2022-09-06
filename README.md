@@ -14,7 +14,7 @@ uBlox produces standard and high precision GPS receivers. These receivers featur
 # Installation
 
 ## Arduino
-Use the Arduino Library Manager to install this library or clone to your Arduino/libraries folder. In addition, the [Bolder Flight Systems Units library](https://github.com/bolderflight/units) and the [Bolder Flight Systems Eigen library](https://github.com/bolderflight/eigen) must be installed. This library is added as:
+Use the Arduino Library Manager to install this library or clone to your Arduino/libraries folder. In addition, the [elapsedMillis library](https://github.com/pfeerick/elapsedMillis), the [Bolder Flight Systems Units library (v4.1.1)](https://github.com/bolderflight/units) and the [Bolder Flight Systems Eigen library (v3.0.2)](https://github.com/bolderflight/eigen) must be installed. This library is added as:
 
 ```C++
 #include "ubx.h"

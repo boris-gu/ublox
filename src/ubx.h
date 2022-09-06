@@ -33,6 +33,7 @@
 #endif
 #include <cstddef>
 #include <cstdint>
+#include <elapsedMillis.h>
 #include "eigen.h"  // NOLINT
 #include "units.h"  // NOLINT
 #include "ubx_defs.h"  // NOLINT
